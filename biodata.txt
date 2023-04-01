@@ -5,5 +5,6 @@ TTL	: Jakarta Pusat, 01 Oktober 1996
 Agama	: Islam
 Alamat	: Gang Flamboyan No 13, Cilendek Timur, Bogor Barat, Kota Bogor
 
-Link Tugas HTML :https://github.com/hasanjamallulail/Kemenparekraf/blob/master/tugas/tugas.html
-Link Tugas CSS	:https://github.com/hasanjamallulail/Kemenparekraf/blob/master/tugas/tugas.css
+Link Repositories : https://github.com/hasanjamallulail/Kemenparekraf
+Link Tugas HTML   :https://github.com/hasanjamallulail/Kemenparekraf/blob/master/tugas/tugas.html
+Link Tugas CSS	  :https://github.com/hasanjamallulail/Kemenparekraf/blob/master/tugas/tugas.css
